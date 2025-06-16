@@ -1,7 +1,7 @@
 <h2 align="center">Hi 👋! I am Sahil Sharma, Software Engineer, from India</h2>
 
 ###
-<p align="left">⭐ Talks About Frontend, Backend, API's and System Design.<br>🧑🏻‍💻 Building in Typescript, NodeJs, and NextJs.<br>🐳 Distributed System, Microservices, Monolithic, and Scaling application.</p>
+<p align="left">⭐ Talks About Frontend, Backend, API, and System Design.<br>🧑🏻‍💻 Building in Typescript, NodeJs, and NextJs.<br>🐳 Distributed System, Microservices, Monolithic, and Scaling application.</p>
 
 ###
 
@@ -125,6 +125,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
 </div>
-.
+
 
 ###
