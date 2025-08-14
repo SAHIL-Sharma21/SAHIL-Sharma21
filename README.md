@@ -1,7 +1,7 @@
-<h2 align="center">Hi 👋! I am Sahil Sharma, Software Engineer, from India</h2>
+<h2 align="center">Hi 👋! I am Sahil Sharma, a Software Engineer from India</h2>
 
 ###
-<p align="left">⭐ Talks About Frontend, Backend, API, and System Design.<br>🧑🏻‍💻 Building in Typescript, NodeJs, and NextJs.<br>🐳 Distributed System, Microservices, Monolithic, and Scaling application.</p>
+<p align="left">⭐ Talks About Frontend, Backend, API, and System Design.<br>🧑🏻‍💻 Building in Typescript, NodeJS, and NextJS.<br>🐳 Distributed System, Microservices, Monolithic, and Scaling application.</p>
 
 ###
 
@@ -27,4 +27,4 @@
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
 </div>
-.
+
