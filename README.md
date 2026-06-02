@@ -1,7 +1,7 @@
 <h2 align="center">Hi 👋! I am Sahil Sharma, a Software Engineer from India</h2>
 
 ###
-<p align="left">⭐ Talks About Frontend, Backend, API, and System Design.<br>🧑🏻‍💻 Building in Typescript, NodeJS, and NextJS.<br>🐳 Distributed System, Microservices, Monolithic, and Scaling application.</p>
+<p align="left">⭐ Talks About Backend, Scaling, Optimization, and System Design.<br>🧑🏻‍💻 Building in Typescript, NodeJS, GoLang.<br>🐳 Distributed System, Microservices, Monolithic, and Scaling application.</p>
 
 ###
 
